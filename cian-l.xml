@@ -1,0 +1,3303 @@
+﻿<feed>
+	<feed_version>3</feed_version>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+Минимальная стоимость сделки по апартаментам с двумя спальнями в Доме Logos. Удобная функциональная планировка, мастер-спальня с собственной гардеробной и ванной комнатой. Южная сторона. Панорамные окна, вид на дизайнерский двор-патио.  Отделка white box.
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639390</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>63.3</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/r8nm3vxd</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d33c6d9c78.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4a39mu27</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>3</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>319</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>37.9</LivingArea>
+		<KitchenArea>7.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>32619000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+Самая привлекательная цена из апартаментов с одной спальней и балконом в Доме Logos. Небольшая площадь, но при этом изолированная спальня. Балкон с западной стороны, вид на Сквер Серпуховской Заставы и фонтан. Отделка white box.
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639399</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>33</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3suceez9</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/44bhxk4t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>4</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>403</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>30.6</LivingArea>
+		<KitchenArea>22.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18379000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Небольшая площадь, но при этом изолированная спальня и кухонный остров. Панорамные окна с западной стороны, вид на Сквер Серпуховской заставы и фонтан. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639400</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>32.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4kdckh4w</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d36f3a3d17.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/44bhxk4t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>4</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>404</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>32.2</LivingArea>
+		<KitchenArea>23.8</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>17934000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description/>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639458</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>39.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/ma2jx6cd</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/24fx36eb</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>6</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>612</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>39.8</LivingArea>
+		<KitchenArea>15.1</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18110000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Просторная, видовая студия с по-настоящему прекрасным панорамным видом. Достигается это благодаря окну, протяженностью во всю стену. Также присутствует гардеробная 4 кв.м, для хранения большой коллекции одежды. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639459</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>33.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/ys2yxnra</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d40253cc54.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/24fx36eb</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>6</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>613</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>33.8</LivingArea>
+		<KitchenArea>21.9</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>17110000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 65.7 кв.м., на 6 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639462</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>65.7</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/bdkybxnx</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d40530a324.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/24fx36eb</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>6</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>616</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>44.2</LivingArea>
+		<KitchenArea>5.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>37351000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 3-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 99 кв.м., на 7 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639477</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>99</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3y3mtp2v</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d448a2c5f0.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>3</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>707</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>98.3</LivingArea>
+		<KitchenArea>29.1</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>57464000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Студия с функциональным зонированием пространства, большой гардеробной и двумя панорамными окнами с видом на центральную часть города. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639479</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>33.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3479err9</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>709</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>12.7</LivingArea>
+		<KitchenArea>9.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>21430000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description/>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639485</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>57.7</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2a4npayc</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>715</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>57.7</LivingArea>
+		<KitchenArea>30.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>35125000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 72.9 кв.м., на 7 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639490</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>72.9</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/282pjsw2</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d456c0448f.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>720</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>69.5</LivingArea>
+		<KitchenArea>27.6</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>43353000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+Уютная функциональная студия с панорамными окнами с видом на сквер и просторным балконом. Отделка white box.
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639491</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>29.5</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/yt8usz75</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d457bdd814.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>721</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>15.3</LivingArea>
+		<KitchenArea>3.9</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18440000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+Уютная студия с видом на тихий двор. Удобная функциональная планировка. Панорамные окна. Отделка white box.
+Собственное комьюнити для жителей:
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639494</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>26.6</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2p8ktu8s</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/4h8har2c</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>7</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>724</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>26.6</LivingArea>
+		<KitchenArea>18.7</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>15339000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Небольшая площадь, но при этом изолированная спальня и кухонный остров. Панорамные окна с западной стороны, вид на Сквер Серпуховской заставы и фонтан. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639500</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>31.1</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2ya74sd4</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d466b5cc4c.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3f8x8b7u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>8</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>806</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>31.1</LivingArea>
+		<KitchenArea>22.7</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18050000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаётся студия-апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 25.8 кв.м., на 8 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639501</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>25.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3bwnc8ex</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d467a729b9.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3f8x8b7u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>8</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>807</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>24.7</LivingArea>
+		<KitchenArea>16.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>16279000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Просторная, видовая студия с по-настоящему прекрасным панорамным видом. Достигается это благодаря окну, протяженностью во всю стену. Также присутствует гардеробная 4 кв.м, для хранения большой коллекции одежды. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639508</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>33.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2cba9327</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3f8x8b7u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>8</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>814</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>33.8</LivingArea>
+		<KitchenArea>21.9</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>17453000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Замечательное разделение пространства, кухонный остров, из окна открывается прекрасный вид на Сквер Серпуховской заставы с его прекрасным фонтаном. Присутствует балкон! Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639521</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>34.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4ehueyz7</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/ysya35vn</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>9</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>904</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>32.2</LivingArea>
+		<KitchenArea>23.8</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>20050000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаётся студия-апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 32.1 кв.м., на 9 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639522</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>32.1</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4d5zhuzb</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d4fd9a91fd.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/ysya35vn</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>9</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>905</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>32.1</LivingArea>
+		<KitchenArea>22.5</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18819000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Апартамент с двумя спальнями, мастер-спальня с собственной ванной комнатой с окном и гардеробной. Эргономичная планировка, удачное зонирование. Панорамные окна с видом на Данилов монастырь и уютный двор. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639529</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>63.7</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/mr2wpwa5</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/ysya35vn</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>9</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>912</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>43.7</LivingArea>
+		<KitchenArea>5.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>34823000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%! Апартамент с мастер-спальней, общей площадью 43,2 кв. метров с отделкой white box. Новый дом со смыслом Logos - пространство единомышленников с созвучными ценностями и устремлениями, дом, в котором каждый житель обретает баланс насыщенной жизни и уединения. Двухуровневая терраса на крыше и собственное комьюнити для жителей на 1м этаже - самодостаточное пространство с полным спектром функционального наполнения: места для отдыха, работы, общения, медитации, занятий спортом, развлечения, уединения и встреч. Идеология дома, его функциональные решения и сервисы - именно то, что позволит жителям свободно выбирать, наслаждаться, находить новое и жить в среде единомышленников. Logos также учитывает потребность своих жителей участвовать в социально-экономической и культурной жизни мегаполиса, предлагая им локацию, которая позволит пользоваться всеми возможностями жизни в центре города. Дом Logos будет расположен в Даниловском районе, в 5 минутах пешком от метро Тульская.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639532</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>43.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2p9metv9</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d50ac09b5c.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/ysya35vn</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>9</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>915</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>43.2</LivingArea>
+		<KitchenArea>16.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>24582000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description> Рассрочка 0%!  Апартамент с мастер-спальней, общей площадью 102,8 кв. метров с отделкой white box.  Новый дом со смыслом Logos — пространство единомышленников с созвучными ценностями и устремлениями, дом, в котором каждый житель обретает баланс насыщенной жизни и уединения.  Двухуровневая терраса на крыше и собственное комьюнити для жителей на 1м этаже - самодостаточное пространство с полным спектром функционального наполнения: места для отдыха, работы, общения, медитации, занятий спортом, развлечения, уединения и встреч.  Идеология дома, его функциональные решения и сервисы — именно то, что позволит жителям свободно выбирать, наслаждаться, находить новое и жить в среде единомышленников.  Logos также учитывает потребность своих жителей участвовать в социально-экономической и культурной жизни мегаполиса, предлагая им локацию, которая позволит пользоваться всеми возможностями жизни в центре города.  Дом Logos будет расположен в Даниловском районе, в 5 минутах пешком от метро Тульская.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639533</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>102.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/w86wnvns</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/ysya35vn</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>3</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>9</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>916</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>102.8</LivingArea>
+		<KitchenArea>38.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>53602000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Большая студия с функционалом односпального апартамента. Полноценная зона гостиной и возможность установить двуспальную кровать в зоне спальни. Панорамное окно во всю стену. Вид на Восток, на дизайнерский внутренний двор. Одна из самых оптимальных стоимостей за кв.м. в Доме Logos. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639542</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>34.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3p667k2j</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3nnnwebj</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>10</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1002</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>34</LivingArea>
+		<KitchenArea>26.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>18322000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Апартамент имеет угловую планировку. В гостиной 3 окна,что позволят наслаждаться дневным светом и прекраснейшим видом на Центр москвы и Москва-Сити. детская комната так же оснащена собственной ванной комнатой. В апартаментах три санузла, эргономичная планировка, позволяющая максимально удобно использовать внутреннее пространство, в дополнение к этому замечательное зонирование. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639547</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>73.9</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/bdftb7bt</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3nnnwebj</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>10</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1007</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>49.2</LivingArea>
+		<KitchenArea>8</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>48697000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 63.6 кв.м., на 10 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639556</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>63.6</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4ejznxm7</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d531228f72.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/3nnnwebj</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>10</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1016</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>45.2</LivingArea>
+		<KitchenArea>5</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>36754000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Просторная функциональная студия с вместительной гардеробной,  с панорамными окнами и рассветными видами на Даниловский монастырь. Отделка white box. Новый дом премиум класса, расположен напротив Даниловского рынка, в 4-х минута пешком от м. Тульская. Собственное комьюнити для жителей:
+
+коворкинг с кофепоинтом
+
+кинозал и парящая библиотека
+
+гостиная с камином и открытая кухня
+
+тренажерный зал и сауна
+
+зал для йоги и зона для киберспорта
+
+двухуровневая терраса и барбекю на крыше
+
+
+Функциональные решения и сервисы – дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка
+Сервисный лифт
+КОнсъерж-сервис
+Беллмен-Сервис
+Постирочная
+Бесшовный Wi-Fi во всех пространствах дома
+Интеллектуальные системы доступа
+Подземный паркинг с установкой станции зарядки электромобилей</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639563</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>36.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/32sm769u</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d5409402a5.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/5fbtdvft</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>11</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1101</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>23.3</LivingArea>
+		<KitchenArea>3.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>19044000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+
+Просторная, видовая студия с по-настоящему прекрасным панорамным видом. Достигается это благодаря окну, протяженностью во всю стену. Также присутствует гардеробная 4 кв.м, для хранения по-настоящему большой коллекции одежды. Отделка white box.
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639575</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>33.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/392dck7c</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/5fbtdvft</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>11</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1113</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>33.8</LivingArea>
+		<KitchenArea>21.9</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>17967000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Апартамент с тремя спальнями, мастер-спальня с собственной ванной комнатой с окном. В детской - свой санузел. Окна выходят на три стороны света, угловая гостиная с видом на Монетный двор и Даниловский монастырь. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639577</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>102.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2ncdk39f</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/5fbtdvft</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>3</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>11</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1115</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>74.4</LivingArea>
+		<KitchenArea>5.5</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>55610000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 63.3 кв.м., на 11 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639579</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>63.3</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2t65h8su</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d55544f2db.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/5fbtdvft</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>11</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1117</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>41.1</LivingArea>
+		<KitchenArea>7.2</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>37481000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Рассрочка 0%!
+Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+Уютная студия с видом на тихий дизайнерский двор-патио. Удобная функциональная планировка. Панорамные окна. Отделка white box.Собственное комьюнити для жителей:
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639584</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>26.6</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/cjb43s98</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/5fbtdvft</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>9</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>11</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1122</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>14.4</LivingArea>
+		<KitchenArea>4.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>1</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>15938000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 1-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 72.2 кв.м., на 12 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639585</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>72.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/47f94pmb</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d55d71afc4.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1201</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>48</LivingArea>
+		<KitchenArea>4.1</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>46153000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description/>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639587</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>64.9</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/566mta2y</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1203</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>63.1</LivingArea>
+		<KitchenArea>25.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>40756000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Просторные апартаменты, удобная функциональная планировка! Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639589</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>55</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4d8vc49m</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1205</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>34.5</LivingArea>
+		<KitchenArea>4.5</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>37490000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Замечательное разделение пространства и кухня-гостиная по центру апартамента. Уникальное дизайнерское решение, предполагающее отсутствие коридора. Вид из окон на восток на Данилов Монастырь и Москву-реку, а также окно в ванной. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639591</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>63.7</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3ma6m9y8</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1207</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>63.7</LivingArea>
+		<KitchenArea>21.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>38841000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 1-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 41.1 кв.м., на 11 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639592</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>39.8</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/35tms777</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d56645a460.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1208</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>39.8</LivingArea>
+		<KitchenArea>15.1</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>23698000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 1-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 43.2 кв.м., на 12 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639594</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>43.2</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/96bccx2u</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d5683df96a.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1210</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>43.2</LivingArea>
+		<KitchenArea>16.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>25722000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. Апартаменты имеют огромную функциональную кухню-гостиную 36 кв., а также две мастер-спальни. А виды на Юг Москвы, на Москва-реку и Данилов Монастырь, точно не оставят вас равнодушными. Отделка white box. Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+Собственное комьюнити для жителей:
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639597</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>83.6</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/ycy4rs7m</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1213</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>52.6</LivingArea>
+		<KitchenArea>7.6</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>50691000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+Перед вами большой односпальный апартамент, расположенный на предпоследнем этаже комплекса и имеющий прекрасный вид на Запад Москвы, особенно с балкона. Функционально оптимальный полноценный мастер-блок с просторной гардеробной и санузлом в спальной комнате. Присутствуют два сан. узла, а также отдельный хоз. блок. Отделка white box.
+
+Собственное комьюнити для жителей:
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639599</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>67.9</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/4s89yssx</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/36dv2f2t</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>12</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1215</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>38.8</LivingArea>
+		<KitchenArea>5.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>42640000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box.
+
+
+Собственное комьюнити для жителей:
+
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.
+
+</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639602</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>64.6</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/3puw65sy</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/mry2hcp5</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>13</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1302</FlatNumber>
+					<SectionNumber>1</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>36.8</LivingArea>
+		<KitchenArea>5.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>43095000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 141.7 кв.м., на 13 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639606</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>141.7</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/2rjz5ekv</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/mry2hcp5</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>13</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1306</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>121.3</LivingArea>
+		<KitchenArea>49.3</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>94660000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 2-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 108.4 кв.м., на 13 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639607</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>108.4</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/mr3cz9ck</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d5786a52b6.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/mry2hcp5</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>2</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>13</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1307</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>96.6</LivingArea>
+		<KitchenArea>40.4</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>3</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete>
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>81221000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+	<object>
+		<Category>newBuildingFlatSale</Category>
+		<Description>Продаются 1-комнатные апартаменты в строящемся доме (вл. 3), срок сдачи: III-кв. 2024, общей площадью 84.4 кв.м., на 13 этаже. Logos  это насыщенная жизнь в центре города. Проект включает в себя: коворкинг, гостиные с камином, открытые кухни, пространство для киберспорта, кинотеатр, тренажерный зал, сауну, парящую библиотеку.</Description>
+		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
+		<ExternalId>9639608</ExternalId>
+		<Phones>
+			<PhoneSchema>
+				<CountryCode>+7</CountryCode>
+				<Number>4952563036</Number>
+			</PhoneSchema>
+		</Phones>
+		<TotalArea>84.4</TotalArea>
+		<LayoutPhoto>
+			<FullUrl>http://tinyurl.com/54pybrrh</FullUrl>
+			<IsDefault>1</IsDefault>
+		</LayoutPhoto>
+		<Photos>
+			<PhotoSchema>
+				<FullUrl>https://pb13845.profitbase.ru/uploads/preset/13845/624d5794d2c63.png</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/mry2hcp5</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/2p9h8kw4</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/y744a85u</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/tjhx2mn6</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+			<PhotoSchema>
+				<FullUrl>http://tinyurl.com/48vzr6p9</FullUrl>
+				<IsDefault>0</IsDefault>
+			</PhotoSchema>
+		</Photos>
+		<FlatRoomsCount>1</FlatRoomsCount>
+		<IsApartments>true</IsApartments>
+		<FloorNumber>13</FloorNumber>
+		<JKSchema>
+			<Id>3872784</Id>
+			<Name>ЖК «Logos (Логос)»</Name>
+			<House>
+				<Id>7585666</Id>
+				<Name/>
+				<Flat>
+					<FlatNumber>1308</FlatNumber>
+					<SectionNumber>2</SectionNumber>
+				</Flat>
+			</House>
+			<Developer>СЗ ЛОГОС</Developer>
+		</JKSchema>
+		<LivingArea>65.2</LivingArea>
+		<KitchenArea>35.8</KitchenArea>
+		<Decoration>Предчистовая (white box)</Decoration>
+		<CombinedWcsCount>2</CombinedWcsCount>
+		<Building>
+			<Name>Logos</Name>
+			<FloorsCount>13</FloorsCount>
+			<Deadline>
+				<Quarter>third</Quarter>
+				<Year>2024</Year>
+				<IsComplete>false</IsComplete >
+			</Deadline>
+		</Building>
+		<BargainTerms>
+			<Price>63344000</Price>
+			<currency>rur</currency>
+			<SaleType>fz214</SaleType>
+		</BargainTerms>
+	</object>
+</feed>
