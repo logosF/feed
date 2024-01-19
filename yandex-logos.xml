@@ -1,0 +1,3023 @@
+<realty-feed
+	xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+	<generation-date>2023-12-29T22:05:42+05:00</generation-date>
+	<offer internal-id="9639398">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>32619000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>63.3</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>7.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/319.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/319.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>41.1</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>3</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639399">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18379000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>33</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>22.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/403.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/403.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor4.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>30.6</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>4</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639400">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>17934000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>32.2</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>23.8</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/404.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/404.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor4.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>32.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>4</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639458">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>21947000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>39.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>15.1</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/612.jpg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor6.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>39.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>6</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639459">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>17110000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>21.9</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/613.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/613.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor6.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>6</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639462">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>37351000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>65.7</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/616.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/616.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor6.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>44.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>6</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639477">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>57464000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>99</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>29.1</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/707.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/707.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor7.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>98.3</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>3</rooms>
+		<floor>7</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639485">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>35125000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>57.7</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>30.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/715.jpg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor7.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>57.7</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>7</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639490">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>43353000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>72.9</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>27.6</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/720.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/720.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor7.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>69.5</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>7</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639491">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18440000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>29.5</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>3.9</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/721.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/721.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor7.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>15.3</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>7</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639494">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>15339000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>26.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>18.7</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/724.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor7.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>26.6</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>7</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639500">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18050000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>31.1</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>22.7</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/806.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/806.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor8.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>31.1</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>8</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639501">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>16279000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>25.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>16.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/807.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/807.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor8.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>24.7</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>8</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639508">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>17453000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>21.9</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/814.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor8.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>8</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639521">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>20050000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>34.2</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>23.8</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/904.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor9.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>32.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>9</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639522">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18819000 </value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>32.1</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>22.5</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/905.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/905.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor9.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>32.1</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>9</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639529">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>34823000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>63.7</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/912.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor9.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>43.7</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>9</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639532">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>24582000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>43.2</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>16.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/915.jpeg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/915.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor9.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>43.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>9</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639533">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>53602000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>102.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>38.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/916.jpg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor9.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>102.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>3</rooms>
+		<floor>9</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639542">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18322000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>34.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>26.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1002.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor10.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>34</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>10</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639547">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>48697000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>73.9</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>8</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1007.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor10.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>49.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>10</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639556">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>36754000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>63.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1016.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1016.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor10.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>45.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>10</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639563">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>19044000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>36.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>3.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1101.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1101.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>23.3</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639565">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>18298000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>30.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>22.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://pb13845.profitbase.ru/uploads/preset/13845/64fb318aad898.jpg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>30.6</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639575">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>17967000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>21.9</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1113.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>33.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639577">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>55610000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>102.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5.5</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1115.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>74.4</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>3</rooms>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639579">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>37481000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>63.3</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>7.2</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1117.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1117.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>41.1</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639584">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>15938000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>26.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>4.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1122.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor11.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>14.4</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>совмещенный</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<studio>1</studio>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<floor>11</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639585">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>46153000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>72.2</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>4.1</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1201.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1201.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>48</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639587">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>40756000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>64.9</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>25.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1203.jpg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>63.1</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639589">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>37490000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>55</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>4.5</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1205.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>34.5</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Центр</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639591">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>38841000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>63.7</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>21.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1207.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>63.7</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639592">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>23698000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>39.8</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>15.1</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1208.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1208.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>39.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639594">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>25722000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>43.2</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>16.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1210.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1210.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>43.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639597">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>50691000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>83.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>7.6</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1213.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>52.6</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639599">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>42640000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>67.9</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1215.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>38.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>12</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639602">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>43095000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>64.6</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>5.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1302.jpeg</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor12.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>36.8</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Площадь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>13</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639606">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>94660000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>141.7</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>49.3</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1306.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1306.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor13.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>121.3</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Данилов монастырь</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>13</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639607">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>81221000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>108.4</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>40.4</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1307.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1307.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor13.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>96.6</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>3</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>2</rooms>
+		<floor>13</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+	<offer internal-id="9639608">
+		<type>продажа</type>
+		<creation-date>2023-08-31T18:08:27+05:00</creation-date>
+		<category>квартира</category>
+		<renovation>Предчистовая (white box)</renovation>
+		<location>
+			<country>Россия</country>
+			<locality-name>Москва</locality-name>
+			<region>Московская область</region>
+			<district>Даниловский район</district>
+			<latitude>55.713264001504555</latitude>
+			<longitude>37.624559230243904</longitude>
+			<address>Подольское шоссе, 3</address>
+		</location>
+		<price>
+			<value>63344000</value>
+			<currency>RUB</currency>
+		</price>
+		<sales-agent>
+			<category>developer</category>
+			<phone>+74950852427</phone>
+			<url/>
+		</sales-agent>
+		<area>
+			<value>84.4</value>
+			<unit>кв. м</unit>
+		</area>
+		<kitchen-space>
+			<value>35.8</value>
+			<unit>кв. м</unit>
+		</kitchen-space>
+		<image tag="plan">https://raw.githubusercontent.com/logosF/feed/main/pics/1308.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/nobrand/1308.png</image>
+		<image tag="plan floor">https://raw.githubusercontent.com/logosF/feed/main/pics/common/floor13.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-1.png</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-2.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-3.jpg</image>
+		<image>https://raw.githubusercontent.com/logosF/feed/main/pics/common/logos-4.jpg</image>
+		<description>>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца. 
+
+
+Апартаменты уникальной планировки с великолепным видом, просторный балкон для наслаждения живописными видами, две роскошные гардеробные комнаты для хранения вашей коллекции, удобная постирочная, потолки высотой 3.6 метра, а также окна размером 3.10 метра, пропускающие максимум естественного света. Отделка white box. 
+
+
+Собственное комьюнити для жителей:
+ 
+Коворкинг с кофе-поинтом, кинозал и парящая библиотека, гостиная с камином и открытая кухня, тренажерный зал и сауна, зал для йоги и зона для киберспорта, двухуровневая терраса и барбекю на крыше!
+
+
+Функциональные решения и сервисы - дополнительные преимущества, которые дадут жителям комфортные и простые способы взаимодействия с домом прямо из мобильного приложения:
+ 
+Велопарковка, сервисный лифт и собственная постирочная, консьерж-сервис и беллмен-сервис, бесшовный Wi-Fi во всех пространствах дома, интеллектуальные системы доступа, подземный паркинг с возможностью установки станции зарядки электромобилей.</description>
+		<last-update-date>2023-12-29T22:05:42+05:00</last-update-date>
+		<property-type>жилая</property-type>
+		<yandex-building-id>2829013</yandex-building-id>
+		<deal-status>продажа от застройщика</deal-status>
+		<living-space>
+			<value>65.2</value>
+			<unit>кв. м</unit>
+		</living-space>
+		<balcony/>
+		<bathroom-unit>2</bathroom-unit>
+		<window-view>Монетный двор</window-view>
+		<open-plan>0</open-plan>
+		<new-flat>1</new-flat>
+		<apartments>true</apartments>
+		<rooms>1</rooms>
+		<floor>13</floor>
+		<floors-total>13</floors-total>
+		<building-name>Logos</building-name>
+		<building-section>Logos</building-section>
+		<built-year>2024</built-year>
+		<ready-quarter>3</ready-quarter>
+		<yandex-house-id>2834139</yandex-house-id>
+		<building-state>unfinished</building-state>
+	</offer>
+</realty-feed>
