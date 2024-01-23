@@ -154,7 +154,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>30.6</LivingArea>
-		<KitchenArea>22.2</KitchenArea>
+		<KitchenArea>4.4</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -247,7 +247,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>32.2</LivingArea>
-		<KitchenArea>23.8</KitchenArea>
+		<KitchenArea>8.1</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -320,7 +320,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>39.8</LivingArea>
-		<KitchenArea>15.1</KitchenArea>
+		<KitchenArea>3</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>2</CombinedWcsCount>
 		<Building>
@@ -412,7 +412,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>33.8</LivingArea>
-		<KitchenArea>21.9</KitchenArea>
+		<KitchenArea>9.6</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -566,7 +566,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>98.3</LivingArea>
-		<KitchenArea>29.1</KitchenArea>
+		<KitchenArea>8</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>3</CombinedWcsCount>
 		<Building>
@@ -639,7 +639,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>57.7</LivingArea>
-		<KitchenArea>30.4</KitchenArea>
+		<KitchenArea>8.7</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>2</CombinedWcsCount>
 		<Building>
@@ -716,7 +716,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>69.5</LivingArea>
-		<KitchenArea>27.6</KitchenArea>
+		<KitchenArea>13.6</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>2</CombinedWcsCount>
 		<Building>
@@ -892,7 +892,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>26.6</LivingArea>
-		<KitchenArea>18.7</KitchenArea>
+		<KitchenArea>4.3</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -985,7 +985,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>31.1</LivingArea>
-		<KitchenArea>22.7</KitchenArea>
+		<KitchenArea>8.1</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1058,7 +1058,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>24.7</LivingArea>
-		<KitchenArea>16.2</KitchenArea>
+		<KitchenArea>3.3</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1148,7 +1148,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>33.8</LivingArea>
-		<KitchenArea>21.9</KitchenArea>
+		<KitchenArea>9.6</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1235,7 +1235,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>32.2</LivingArea>
-		<KitchenArea>23.8</KitchenArea>
+		<KitchenArea>8.1</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1312,7 +1312,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>32.1</LivingArea>
-		<KitchenArea>22.5</KitchenArea>
+		<KitchenArea>7.7</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1475,7 +1475,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>43.2</LivingArea>
-		<KitchenArea>16.3</KitchenArea>
+		<KitchenArea>3.2</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>2</CombinedWcsCount>
 		<Building>
@@ -1548,7 +1548,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>102.8</LivingArea>
-		<KitchenArea>38.2</KitchenArea>
+		<KitchenArea>5.5</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>3</CombinedWcsCount>
 		<Building>
@@ -1635,7 +1635,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>34</LivingArea>
-		<KitchenArea>26.4</KitchenArea>
+		<KitchenArea>10.6</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -1991,7 +1991,7 @@
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
 		<LivingArea>33.8</LivingArea>
-		<KitchenArea>21.9</KitchenArea>
+		<KitchenArea>9.6</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>1</CombinedWcsCount>
 		<Building>
@@ -2557,7 +2557,7 @@
 			</House>
 			<Developer>СЗ ЛОГОС</Developer>
 		</JKSchema>
-		<LivingArea>63.7</LivingArea>
+		<LivingArea>43.7</LivingArea>
 		<KitchenArea>5.4</KitchenArea>
 		<Decoration>Предчистовая (white box)</Decoration>
 		<CombinedWcsCount>2</CombinedWcsCount>
