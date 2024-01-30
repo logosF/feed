@@ -1,6 +1,6 @@
 ﻿<feed>
 	<feed_version>3</feed_version>
-	<object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
 
@@ -85,7 +85,7 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
+	</-object>
 	<object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Рассрочка 0%!
@@ -167,7 +167,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>18379000</Price>
+			<Price>18930664</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -260,12 +260,12 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>17934000</Price>
+			<Price>18471738,87</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
 	</object>
-	<object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description/>
 		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
@@ -337,7 +337,7 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
+	</-object>
 	<object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Рассрочка 0%
@@ -425,7 +425,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>17110000</Price>
+			<Price>17622840,49</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -502,7 +502,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>37351000</Price>
+			<Price>65243854,0398748</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -579,7 +579,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>57464000</Price>
+			<Price>59187414,0749032</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -652,7 +652,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>35125000</Price>
+			<Price>36178310,8856564</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -729,7 +729,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>43353000</Price>
+			<Price>44653395,1893016</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -823,7 +823,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>18440000</Price>
+			<Price>18993690,795794</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -905,7 +905,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>15339000</Price>
+			<Price>15798686,3369012</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -998,7 +998,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>18050000</Price>
+			<Price>18591904,81</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1071,7 +1071,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>16279000</Price>
+			<Price>16767224,2970814</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1161,7 +1161,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>17453000</Price>
+			<Price>17976092,12</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1248,7 +1248,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>20050000</Price>
+			<Price>20651633,5236721</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1325,12 +1325,12 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>18819000</Price>
+			<Price>19383550,7634466</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
 	</object>
-	<object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
 
@@ -1415,8 +1415,8 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
-	<object>
+	</-object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Рассрочка 0%! Апартамент с мастер-спальней, общей площадью 43,2 кв. метров с отделкой white box. Новый дом со смыслом Logos - пространство единомышленников с созвучными ценностями и устремлениями, дом, в котором каждый житель обретает баланс насыщенной жизни и уединения. Двухуровневая терраса на крыше и собственное комьюнити для жителей на 1м этаже - самодостаточное пространство с полным спектром функционального наполнения: места для отдыха, работы, общения, медитации, занятий спортом, развлечения, уединения и встреч. Идеология дома, его функциональные решения и сервисы - именно то, что позволит жителям свободно выбирать, наслаждаться, находить новое и жить в среде единомышленников. Logos также учитывает потребность своих жителей участвовать в социально-экономической и культурной жизни мегаполиса, предлагая им локацию, которая позволит пользоваться всеми возможностями жизни в центре города. Дом Logos будет расположен в Даниловском районе, в 5 минутах пешком от метро Тульская.</Description>
 		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
@@ -1492,7 +1492,7 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
+	</-object>
 	<object>
 		<Category>newBuildingFlatSale</Category>
 		<Description> Рассрочка 0%!  Апартамент с мастер-спальней, общей площадью 102,8 кв. метров с отделкой white box.  Новый дом со смыслом Logos — пространство единомышленников с созвучными ценностями и устремлениями, дом, в котором каждый житель обретает баланс насыщенной жизни и уединения.  Двухуровневая терраса на крыше и собственное комьюнити для жителей на 1м этаже - самодостаточное пространство с полным спектром функционального наполнения: места для отдыха, работы, общения, медитации, занятий спортом, развлечения, уединения и встреч.  Идеология дома, его функциональные решения и сервисы — именно то, что позволит жителям свободно выбирать, наслаждаться, находить новое и жить в среде единомышленников.  Logos также учитывает потребность своих жителей участвовать в социально-экономической и культурной жизни мегаполиса, предлагая им локацию, которая позволит пользоваться всеми возможностями жизни в центре города.  Дом Logos будет расположен в Даниловском районе, в 5 минутах пешком от метро Тульская.</Description>
@@ -1561,7 +1561,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>53602000</Price>
+			<Price>55209558,7562402</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1648,7 +1648,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>18322000</Price>
+			<Price>18871632,0238825</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1735,7 +1735,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>48697000</Price>
+			<Price>50157689,6150247</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -1812,12 +1812,12 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>36754000</Price>
+			<Price>37856416,0479083</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
 	</object>
-	<object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Просторная функциональная студия с вместительной гардеробной,  с панорамными окнами и рассветными видами на Даниловский монастырь. Отделка white box. Новый дом премиум класса, расположен напротив Даниловского рынка, в 4-х минута пешком от м. Тульская. Собственное комьюнити для жителей:
 
@@ -1916,7 +1916,7 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
+	</-object>
 	<object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Рассрочка 0%!
@@ -2004,7 +2004,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>17967000</Price>
+			<Price>18847332,9105513</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2094,7 +2094,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>55610000</Price>
+			<Price>57278162,5902757</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2171,7 +2171,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>37481000</Price>
+			<Price>38605873,8616646</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2252,7 +2252,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>15938000</Price>
+			<Price>16416350,3109768</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2329,12 +2329,12 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>46153000</Price>
+			<Price>47537958,4871164</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
 	</object>
-	<object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description/>
 		<Address>Московская область, Даниловский район, Москва, Подольское шоссе, 3</Address>
@@ -2402,8 +2402,8 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
-	<object>
+	</-object>
+	<-object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
 
@@ -2489,7 +2489,7 @@
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
-	</object>
+	</-object>
 	<object>
 		<Category>newBuildingFlatSale</Category>
 		<Description>Новый дом премиум класса расположен напротив Даниловского рынка, в 5 минутах от Садового кольца.
@@ -2571,7 +2571,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>38841000</Price>
+			<Price>40006714,900438</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2648,7 +2648,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>24171000</Price>
+			<Price>24896634,9191491</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2725,7 +2725,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>26236000</Price>
+			<Price>27023483,1283227</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2805,7 +2805,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>50691000</Price>
+			<Price>52212227,6916917</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2888,7 +2888,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>42640000</Price>
+			<Price>43918884,9512457</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -2976,7 +2976,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>43095000</Price>
+			<Price>44388325,4420531</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -3049,7 +3049,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>94660000</Price>
+			<Price>97499427,9827942</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -3126,7 +3126,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>81221000</Price>
+			<Price>83657970,5979874</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
@@ -3203,7 +3203,7 @@
 			</Deadline>
 		</Building>
 		<BargainTerms>
-			<Price>63344000</Price>
+			<Price>65243854,0398748</Price>
 			<currency>rur</currency>
 			<SaleType>fz214</SaleType>
 		</BargainTerms>
